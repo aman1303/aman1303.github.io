@@ -178,8 +178,8 @@ img{
 
 /* Hero section */
 #hero{
-    /* background-image: url("./img//pencilColors.jpg"); */
-    background-image: url("./img//testImg1.jpg");
+    /* background-image: url("./pencilColors.jpg"); */
+    background-image: url("./testImg1.jpg");
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -295,7 +295,7 @@ img{
     padding: 30px;
     border-radius: 10px;
     height: 420px;
-    background-image: url("./img//events-2.jpg");
+    background-image: url("./events-2.jpg");
     background-size: cover;
     margin: 10px 5%;
     position: relative;
