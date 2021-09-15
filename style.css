@@ -480,7 +480,7 @@ img{
     /* color: crimson; */
 }
 #contact .contact-item:hover{
-    box-shadow: 0 0 10px 0 gray;
+    box-shadow: 0 0 10px 0 crimson;
 }
 #contact .contact-item:hover a{
     color: crimson;
